@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "kijiji-scraper": "github:caranad/kijiji-scraper#master"
+    "kijiji-scraper": "^5.0.3"
   },
   "engine": {
     "node": "10.x",
